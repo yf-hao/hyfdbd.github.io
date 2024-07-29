@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>next 主题配置</title>
+      <link href="/2024/07/28/next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
+      <url>/2024/07/28/next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1-显示md文件中引入的图片"><a href="#1-显示md文件中引入的图片" class="headerlink" title="1. 显示md文件中引入的图片"></a>1. 显示md文件中引入的图片</h3><p>这里要在站点目录&#x2F;source下新建一个images文件，然后将需要引入的图片放在该目录下。</p><p>在做图片路径引入时格式为：<code>![](/imgages/图片全名)</code></p><img src="../images/image-20240728163515092.png" alt="image-20240728163515092" style="zoom:33%;" /><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> next 主题配置 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
